@@ -46,9 +46,9 @@ If you're looking to connect or collaborate, feel free to explore my profile bel
 <h2>📊 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urbimangal&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urbimangal&layout=compact&theme=tokyonight" />
-</p> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=urbimangal&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urbimangal&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
