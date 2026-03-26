@@ -18,6 +18,9 @@ If you're looking to connect or collaborate, feel free to explore my profile bel
   <a href="https://www.geeksforgeeks.org/user/urbimatth3/" target="_blank" style="text-decoration: none;">
     <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/urbi_mangal/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
