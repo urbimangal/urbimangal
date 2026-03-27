@@ -15,11 +15,11 @@ If you're looking to connect or collaborate, feel free to explore my profile bel
   <a href="https://www.instagram.com/urbi_mangal20?utm_source=qr&igsh=NXpmdDhxeGdranVn" target="_blank" style="text-decoration: none;">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/urbimatth3/" target="_blank" style="text-decoration: none;">
-    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/u/urbi_mangal/" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/urbimatth3/" target="_blank" style="text-decoration: none;">
+    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
