@@ -45,11 +45,11 @@ If you're looking to connect or collaborate, feel free to explore my profile bel
 
 <h2>📊 GitHub Stats:</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urbimangal&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urbimangal&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=urbimangal)
+![GitHub Streak](https://streak-stats.demolab.com?user=urbimangal&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urbimangal&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urbimangal&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
