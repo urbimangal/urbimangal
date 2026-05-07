@@ -8,18 +8,14 @@ If you're looking to connect or collaborate, feel free to explore my profile bel
 ---
 
 <h2>🌐 Socials:</h2>
-<p align="left" style="display: flex; gap: 0.3rem;">
-  <a href="https://www.linkedin.com/in/urbi-mangal-672828324?" target="_blank" style="text-decoration: none;">
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/urbi-mangal-672828324" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/urbi_mangal20?utm_source=qr&igsh=NXpmdDhxeGdranVn" target="_blank" style="text-decoration: none;">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/urbi_mangal/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/urbimatth3/" target="_blank" style="text-decoration: none;">
-    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+
+  <a href="mailto:urbimangal@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -27,29 +23,41 @@ If you're looking to connect or collaborate, feel free to explore my profile bel
 
 <h2>💻 Tech Stack:</h2>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+</p>
 
 ---
 
 <h2>📊 GitHub Stats:</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urbimangal&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=urbimangal&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=urbimangal&show_icons=true&theme=tokyonight" height="180em"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urbimangal&layout=compact&theme=tokyonight&cache_seconds=1800)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=urbimangal&theme=tokyonight" height="180em"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urbimangal&layout=compact&theme=tokyonight" height="180em"/>
+
+</p>
 
 ---
 
