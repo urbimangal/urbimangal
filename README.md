@@ -1,9 +1,19 @@
 <h2>👋 About Me:</h2>
 
-👋 Hello! I'm **Urbi Mangal**, a second-year B.Tech student passionate about **web development**, creative design, and **Data Structures & Algorithms (DSA)**.  
-Currently building websites with **HTML**, **CSS**, and **JavaScript**, and improving my problem-solving skills using **C++**.  
-I’m also learning **Python** and working on projects.  
-If you're looking to connect or collaborate, feel free to explore my profile below! 🚀
+👋 Hello! I'm **Urbi Mangal**, a passionate **MERN Stack Developer** and a second-year B.Tech student with a strong interest in **full-stack web development**, scalable applications, and **Data Structures & Algorithms**.
+
+💻 I build modern and responsive web applications using technologies like **MongoDB, Express.js, React.js, Node.js, Tailwind CSS, JavaScript, and C++**.
+
+🧠 I have solved **200+ DSA problems** across platforms like **LeetCode** and **GeeksforGeeks**, continuously improving my problem-solving and analytical skills.
+
+🚀 Currently focused on:
+- Full-Stack MERN Development
+- Backend Development
+- REST APIs
+- DSA & Competitive Programming
+- Building real-world projects
+
+✨ I enjoy learning new technologies, creating impactful projects, and exploring clean UI/UX designs.
 
 ---
 
@@ -43,22 +53,13 @@ If you're looking to connect or collaborate, feel free to explore my profile bel
 
 ---
 
-<h2>📊 GitHub Stats:</h2>
+<h2>🔥 GitHub Streak:</h2>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=urbimangal&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=urbimangal&theme=tokyonight" height="180em"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urbimangal&layout=compact&theme=tokyonight" height="180em"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urbimangal&theme=tokyonight" height="180em"/>
 </p>
 
 ---
 
-### ✨ Thanks for stopping by! Let’s connect and create something awesome.
+### ✨ Thanks for stopping by! Let’s connect and build something amazing together.
+
