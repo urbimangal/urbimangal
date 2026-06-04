@@ -67,7 +67,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=urbimangal&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=urbimangal&theme=tokyonight" />
 </p>
 
 
